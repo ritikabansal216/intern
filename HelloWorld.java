@@ -1,0 +1,46 @@
+package Projects;
+
+// This is a simple Java program that prints "Hello, World!" to the console.
+public class HelloWorld {
+
+    // The main method is the entry point of the program.
+    public static void main(String[] args) {
+        // Print the "Hello, World!" message to the console.
+        System.out.println("Hello, World!");
+    }
+}
+/*
+ * Author:Ritika Bansal
+ */
+/*
+ * Purpose:
+ * The purpose of the Java program provided, which prints "Hello, World!" to the
+ * console, is to serve as a simple introductory example for beginners learning
+ * the Java programming language. Here's a more detailed explanation of its
+ * purpose:
+ * 
+ * Introduction to Java Syntax: The program introduces fundamental elements of
+ * Java syntax, such as defining a class, declaring the main method, and using
+ * the System.out.println() statement to display output on the console.
+ * 
+ * Starting Point: It serves as a starting point for individuals who are new to
+ * programming in Java. "Hello, World!" programs are typically the first
+ * programs people write when learning a new programming language.
+ * 
+ * Verification of Development Environment: Running this program helps verify
+ * that your Java development environment is correctly set up and configured. If
+ * the program runs successfully and displays the "Hello, World!" message, it
+ * indicates that your Java environment is ready for more complex coding tasks.
+ * 
+ * Testing Output: It demonstrates the concept of sending text output to the
+ * console, which is a fundamental skill for debugging and monitoring the
+ * behavior of Java applications.
+ * 
+ * Understanding the Main Method: It showcases the main method, which is the
+ * entry point of Java applications. In more complex programs, this is where you
+ * start executing your code.
+ * 
+ * In summary, the "Hello, World!" program is a foundational example used to
+ * introduce the basics of the Java programming language and ensure that the
+ * development environment is correctly configured.
+ */
